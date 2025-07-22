@@ -17,3 +17,25 @@ Did some research today and started my schematic. Had trouble choosing a NFC rea
 <img width="353" height="283" alt="Screenshot 2025-07-17 013624" src="https://github.com/user-attachments/assets/4591666b-902b-4175-8191-ea325959c647" />
 
 **1 hour**
+---
+# July 17th-22nd
+
+I have relatively busy around this time, but I know if I want to get this project done soon I have to kinda lock in. I've spent my free time researching mainly, figuring out how to wire everthing up, and thinking about final assemblemy.
+
+This included choosing a motor type, battery voltage step-down, and speaker amp. I also have chosen a good few of my parts and finished my schematic!
+
+<img width="1246" height="912" alt="13ab8e70-4280-497e-8bfb-eaea7e0e1cd3" src="https://github.com/user-attachments/assets/d9057bd6-9346-479b-a218-ac937e234e9e" />
+
+I apologize for the multi-day entry but I haven't really been getting enough done on each day to justify a full entry. Overall things are going well and I just have to:
+- Check Schematic
+- Assign Footprints
+- Create PCB
+- 3D Design
+- Software
+- Get Approved
+- Order Parts
+- Build!
+
+It's going to be tight but I think I can do it.
+
+**5 hours**
