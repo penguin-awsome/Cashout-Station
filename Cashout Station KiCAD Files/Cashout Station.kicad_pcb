@@ -74,9 +74,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../Production/")
 		)
 	)
 	(net 0 "")
@@ -2321,7 +2321,7 @@
 		(property "Reference" "M4"
 			(at 0 -5.25 0)
 			(layer "F.SilkS")
-			(uuid "de8851b0-817a-4bce-8e52-090240612abe")
+			(uuid "0892eef2-d92f-4863-b12a-fd16c6458a39")
 			(effects
 				(font
 					(size 1 1)
@@ -2333,7 +2333,7 @@
 			(at 0 5.3 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "648ddfa0-721e-4276-8c1f-1a2b40a328e1")
+			(uuid "14298184-3c5f-43a7-b85e-e0414ec46d87")
 			(effects
 				(font
 					(size 1 1)
@@ -2390,7 +2390,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "7cb4be07-9081-4b2e-b76c-615dfee2b515")
+			(uuid "1cef7f72-0e06-4cea-aeb7-d5e34626b27c")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2401,12 +2401,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "02ad1feb-632e-4811-85b9-8c2f2e9897f8")
+			(uuid "2c016504-69f7-40ba-8378-3588b88b103b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "833c42f5-9145-4d34-a44a-3a830a897b6f")
+			(uuid "bc5eb977-5f9f-4680-be85-03e4d5948f31")
 			(effects
 				(font
 					(size 1 1)
@@ -2419,7 +2419,7 @@
 			(size 4.3 4.3)
 			(drill 4.3)
 			(layers "*.Cu" "*.Mask")
-			(uuid "e6b81710-f9c9-4bb7-b76e-d6637d936367")
+			(uuid "17928685-9717-4425-b084-259d30c18d5d")
 		)
 	)
 	(footprint "MountingHole:MountingHole_4.3mm_M4"
@@ -2431,7 +2431,7 @@
 		(property "Reference" "M4"
 			(at 0 -5.25 0)
 			(layer "F.SilkS")
-			(uuid "de8851b0-817a-4bce-8e52-090240612abe")
+			(uuid "4a1bc917-1a89-440f-bd20-75814d5dfece")
 			(effects
 				(font
 					(size 1 1)
@@ -2443,7 +2443,7 @@
 			(at 0 5.3 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "648ddfa0-721e-4276-8c1f-1a2b40a328e1")
+			(uuid "97020d58-3903-43c0-9af8-ca694ccb84da")
 			(effects
 				(font
 					(size 1 1)
@@ -2500,7 +2500,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "7cb4be07-9081-4b2e-b76c-615dfee2b515")
+			(uuid "0c6c5bb9-ffd5-44e0-91e8-77becfa13354")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2511,12 +2511,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "02ad1feb-632e-4811-85b9-8c2f2e9897f8")
+			(uuid "11ce826b-8f65-4524-8221-51b223f1b586")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "833c42f5-9145-4d34-a44a-3a830a897b6f")
+			(uuid "9fabb9a9-3f1c-4972-8837-306071d8defd")
 			(effects
 				(font
 					(size 1 1)
@@ -2529,7 +2529,7 @@
 			(size 4.3 4.3)
 			(drill 4.3)
 			(layers "*.Cu" "*.Mask")
-			(uuid "e6b81710-f9c9-4bb7-b76e-d6637d936367")
+			(uuid "e4ccbd17-2476-4eee-8adc-fb067affb142")
 		)
 	)
 	(footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
