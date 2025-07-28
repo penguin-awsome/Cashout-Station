@@ -16,4 +16,4 @@ Id,Designator,Footprint,Quantity,Designation,Price(USD),Supplier
 14,~,~,1,M4 Screws,$1.79,Aliexpress: https://www.aliexpress.com/item/4001072025844.html
 14.5,~,~,1,Screws,$1.88,Aliexpress: https://www.aliexpress.com/item/4001072025844.html
 15,~,~,1,Wires,$2.39,Aliexpress: https://www.aliexpress.com/item/1005005665978939.html
-Plus,~,~,Digikey Shipping Fee, $5.82,~
+Plus,~,~,~,Digikey Shipping Fee, $5.82,~
