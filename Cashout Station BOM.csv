@@ -1,19 +1,19 @@
 Id,Designator,Footprint,Quantity,Designation,Price(USD),Supplier
 1,BT1,PinHeader_1x02_P2.54mm_Vertical,1,9V Battery,$,I own this
-2,"M1,M2",PinHeader_1x03_P2.54mm_Vertical,2,MG90s 360 Servo,$4.14,Aliexpress: https://www.aliexpress.com/item/1005008626768357.html
-3,J1,PinHeader_1x03_P2.54mm_Vertical,1,3885‎ STEMMA SPEAKER & AUDIO AMPLIFIER,$6.67,Digikey: https://www.digikey.ca/en/products/detail/adafruit-industries-llc/3885/10481842?s=N4IgTCBcDaIIwFYwA4C0BmZyGoHIBFA4AgAIQBdAXyA
-4,"D1,D2",LED_D5.0mm,1,Red LED,$0.96,Digikey: https://www.digikey.ca/en/products/detail/dialight/5219247F/2429365?s=N4IgTCBcDaIAQB0AudBwBAZgKwAYC0YA2AdiNwDkARVOEAXQF8g
-4.5,D2,LED_D5.0mm,1,White LED,$0.34,Digikey: https://www.digikey.ca/en/products/detail/inolux/INL-5AW30/7604628?s=N4IgTCBcDaIIwA4DMAGAtHFcloHIBFA4AgAIQBdAXyA
-5,"R3,R2",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,4.7kΩ Resistor,$5.18 (shared),Aliexpress: https://www.aliexpress.com/item/1005003003266002.html
-6,"R1,R4",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,220Ω Resistor,$5.18 (shared),Aliexpress: https://www.aliexpress.com/item/1005003003266002.html
-7,U2,PinHeader_1x04_P2.54mm_Vertical,1,LM2596 Buck Converter,$1.53,Aliexpress: https://www.aliexpress.com/item/1005004904872120.html
-8,"C2,C1",CP_Radial_D5.0mm_P2.50mm,2,100 µF Capacitor,$2.65,Aliexpress: https://www.aliexpress.com/item/32885190636.html
-9,U1,XIAO-Generic-Thruhole-14P-2.54-21X17.8MM,1,XIAO-ESP32-C6,$8.88,Aliexpress: https://www.aliexpress.com/item/1005007427033011.html
-10,NFC Connecter,PinHeader_1x04_P2.54mm_Vertical,1,PN532 NFC Module,$2.64,Aliexpress: https://www.aliexpress.com/item/1005007492284526.html
-11,SW2,SW_PUSH_6mm,2,SPST Button,$0.54,Digikey: https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/B3F-1000/33150
-12,~,~,1,NTAG213 NFC Tag,$1.15,Aliexpress: https://www.aliexpress.com/item/1005008634764946.html
-13,~,~,1,Battery Snap Connecter,$1.48,Aliexpress: https://www.aliexpress.com/item/1005006208179111.html
-14,~,~,1,M4 Screws,$1.79,Aliexpress: https://www.aliexpress.com/item/4001072025844.html
-14.5,~,~,1,Screws,$1.88,Aliexpress: https://www.aliexpress.com/item/4001072025844.html
-15,~,~,1,Wires,$2.39,Aliexpress: https://www.aliexpress.com/item/1005005665978939.html
+2,"M1,M2",PinHeader_1x03_P2.54mm_Vertical,2,MG90s 360 Servo,$4.14,https://www.aliexpress.com/item/1005008626768357.html
+3,J1,PinHeader_1x03_P2.54mm_Vertical,1,3885‎ STEMMA SPEAKER & AUDIO AMPLIFIER,$6.67,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/3885/10481842?s=N4IgTCBcDaIIwFYwA4C0BmZyGoHIBFA4AgAIQBdAXyA
+4,"D1,D2",LED_D5.0mm,1,Red LED,$0.96,https://www.digikey.ca/en/products/detail/dialight/5219247F/2429365?s=N4IgTCBcDaIAQB0AudBwBAZgKwAYC0YA2AdiNwDkARVOEAXQF8g
+4.5,D2,LED_D5.0mm,1,White LED,$0.34,https://www.digikey.ca/en/products/detail/inolux/INL-5AW30/7604628?s=N4IgTCBcDaIIwA4DMAGAtHFcloHIBFA4AgAIQBdAXyA
+5,"R3,R2",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,4.7kΩ Resistor,$5.18 (shared),https://www.aliexpress.com/item/1005003003266002.html
+6,"R1,R4",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,220Ω Resistor,$5.18 (shared),https://www.aliexpress.com/item/1005003003266002.html
+7,U2,PinHeader_1x04_P2.54mm_Vertical,1,LM2596 Buck Converter,$1.53,https://www.aliexpress.com/item/1005004904872120.html
+8,"C2,C1",CP_Radial_D5.0mm_P2.50mm,2,100 µF Capacitor,$2.65,https://www.aliexpress.com/item/32885190636.html
+9,U1,XIAO-Generic-Thruhole-14P-2.54-21X17.8MM,1,XIAO-ESP32-C6,$8.88,https://www.aliexpress.com/item/1005007427033011.html
+10,NFC Connecter,PinHeader_1x04_P2.54mm_Vertical,1,PN532 NFC Module,$2.64,https://www.aliexpress.com/item/1005007492284526.html
+11,SW2,SW_PUSH_6mm,2,SPST Button,$0.54,https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/B3F-1000/33150
+12,~,~,1,NTAG213 NFC Tag,$1.15,https://www.aliexpress.com/item/1005008634764946.html
+13,~,~,1,Battery Snap Connecter,$1.48,https://www.aliexpress.com/item/1005006208179111.html
+14,~,~,1,M4 Screws,$1.79,https://www.aliexpress.com/item/4001072025844.html
+14.5,~,~,1,Screws,$1.88,https://www.aliexpress.com/item/4001072025844.html
+15,~,~,1,Wires,$2.39,https://www.aliexpress.com/item/1005005665978939.html
 Plus,~,~,~,Digikey Shipping Fee, $5.82,~
