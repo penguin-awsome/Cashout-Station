@@ -11,5 +11,4 @@ Id,Designator,Footprint,Quantity,Designation,Supplier
 10,NFC Connecter,PinHeader_1x04_P2.54mm_Vertical,1,~, Aliexpress
 11,SW2,SW_PUSH_6mm,1,Le Button, Digikey
 12,SW1,SW_PUSH_6mm,1,"Le Button: The Sequel", Digikey
-
-All Prices in README BOM
+NOTE,All Prices in README BOM,~,~,~,~
