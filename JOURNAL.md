@@ -3,6 +3,7 @@ Title: "Cahout Station"
 Author: "James | Waddle_Penguin"
 Description: "A station that launches a game with some bells and whistles"
 Created On: "2025-07-17"
+Total Time: ~33 hours but in a short period of time
 ---
 # July 16th
 
@@ -70,3 +71,24 @@ Still To-Do:
 - Build!
 
 ** ~20 hours**
+----
+# June 28th-29th
+
+Boy have I been busy, but I'm done! I think.
+
+I ordered the rest of my parts and did a test print of my case and then made some coresponding changes, I also wrote my BOM and README. I then went on to write my software, which I will say ChatGPT played a hand in as I'm on a time crunch, but I do plan to go back and review stuff later. I set up my code for launching the game on command boot on launch as well.
+<img width="1342" height="24" alt="Custom Startup Code" src="https://github.com/user-attachments/assets/a9647152-f665-4a30-8bf1-2057021ac0b0" />
+
+I also realized I frogot to show a photo of my schematic, so here it is!
+<img width="803" height="558" alt="Finished Schematic" src="https://github.com/user-attachments/assets/9991f375-1e05-4e1b-894f-29f142452fc8" />
+
+In addition I made my file system nice and neat!
+<img width="610" height="182" alt="Good File Structure" src="https://github.com/user-attachments/assets/2d088734-3559-4349-83db-9bdc63d6e69e" />
+
+Still To-Do:
+- Get Approved
+- Build!
+
+Getting there! Hopefully I'm approved in time and by some miracle all of the parts make it here in time.
+
+**13 hours**
