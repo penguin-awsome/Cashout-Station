@@ -8,6 +8,7 @@ It uses a NFC Detector to detect when the cashbox has been inserted via an NFC t
 
 Here are some photos of the finished design:
 
+<img width="803" height="558" alt="Finished Schematic" src="https://github.com/user-attachments/assets/3b53aaec-4faa-416b-b172-7a9b5ee23562" />
 <img width="2360" height="1640" alt="Initial Sketch" src="https://github.com/user-attachments/assets/f7ba7263-5fa0-4123-8406-552e23a80273" />
 <img width="443" height="988" alt="Finished PCB" src="https://github.com/user-attachments/assets/933a6329-4546-4929-a5b5-81ca4f6903be" />
 <img width="461" height="1037" alt="PCB Back Render" src="https://github.com/user-attachments/assets/bbea88de-b318-40a8-b92d-d60932ed37ba" />
